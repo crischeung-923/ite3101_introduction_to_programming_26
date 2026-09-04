@@ -1,1 +1,1 @@
-product
+product=5*8
