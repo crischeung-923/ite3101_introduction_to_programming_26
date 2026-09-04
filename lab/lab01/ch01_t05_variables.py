@@ -1,1 +1,1 @@
-todays_data=
+todays_data=2026-
