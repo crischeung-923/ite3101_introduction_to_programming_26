@@ -8,6 +8,7 @@ august_rainfall = 4.91
 annual_rainfall += august_rainfall
 
 september_rainfall = 5.16
+annual_rainfall +=
 october_rainfall = 7.20
 november_rainfall = 5.06
 december_rainfall = 4.06
