@@ -1,4 +1,4 @@
 haiku='''The old pond,
 A forg jumps in:
-Plog!'''
+Plop!'''
 print(haiku)
