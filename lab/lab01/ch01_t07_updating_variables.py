@@ -19,4 +19,4 @@ annual_rainfall += november_rainfall
 december_rainfall = 4.06
 annual_rainfall += december_rainfall
 
-print(annual_rainfall
+print(annual_rainfall)
