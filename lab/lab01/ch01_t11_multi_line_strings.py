@@ -1,4 +1,3 @@
-haiku='''The old pond,
+haiku = '''The old pond,
 A frog jumps in:
 Plop!'''
-print(haiku)
