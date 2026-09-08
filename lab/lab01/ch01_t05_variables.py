@@ -1,2 +1,2 @@
 todays_date = "2026-9-8"
-print(today_data)
+print(todays_date)
