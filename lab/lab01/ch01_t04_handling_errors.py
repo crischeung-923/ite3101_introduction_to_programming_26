@@ -1,2 +1,2 @@
-print("Mismatched quotes will cause a SyntaxError")
+print("")
 print('Without quotes will cause a NameError')
