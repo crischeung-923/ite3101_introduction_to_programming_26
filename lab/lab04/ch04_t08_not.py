@@ -1,6 +1,6 @@
 bool_one = not True
 
-bool_two = 
+bool_two = not 3 ** 4 < 4 ** 3
 
 bool_three = 
 
