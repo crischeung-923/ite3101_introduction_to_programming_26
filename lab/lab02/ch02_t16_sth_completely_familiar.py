@@ -2,4 +2,4 @@
 
 my_string = "hello world"
 print(let(my_string))
-print
+print(my_string.upper())
