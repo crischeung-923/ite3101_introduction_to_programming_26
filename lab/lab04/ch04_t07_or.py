@@ -1,9 +1,9 @@
-bool_one = None
+bool_one = 2 ** 3 == 108 % 100 or 'Cleese' == 'King Arthur'
 
-bool_two = None
+bool_two = 
 
-bool_three = None
+bool_three = 
 
-bool_four = None
+bool_four = 
 
-bool_five = None
+bool_five = 
