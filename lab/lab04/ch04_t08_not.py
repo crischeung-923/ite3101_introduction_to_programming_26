@@ -1,4 +1,4 @@
-bool_one = 
+bool_one = not True
 
 bool_two = 
 
