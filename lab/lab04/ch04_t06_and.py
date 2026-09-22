@@ -1,4 +1,4 @@
-bool_one = 
+bool_one = False and False
 
 bool_two = -(-(-(-2))) == -2 and 4 >= 16 ** 0.5
 
