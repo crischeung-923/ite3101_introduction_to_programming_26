@@ -13,4 +13,4 @@ bool_three = 100 == (2*50)
 bool_four = 20 <= 10
 
 # Make me true!
-bool_five = 30 <= 30
+bool_five = 30 >= 30
