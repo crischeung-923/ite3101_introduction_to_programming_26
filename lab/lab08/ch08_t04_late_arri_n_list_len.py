@@ -4,7 +4,7 @@ suitcase.append("sunglasses")
 # Your code here!
 suitcase.append("bathing suit")
 suitcase.append("T-Shirt")
-suitcase.append("bathing suit")
+suitcase.append("Jak")
 
 list_length = len(suitcase)
 
