@@ -9,4 +9,5 @@ def plane_ride_cost(city):
     elif == "Pittsburgh":
         return 222 
      elif ==  "Los Angeles":
+        return 475
 "
