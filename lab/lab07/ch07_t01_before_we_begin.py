@@ -1,4 +1,4 @@
 def answer() -> int
     return 42
 
-    print(answer() 0
+    print(answer() )
