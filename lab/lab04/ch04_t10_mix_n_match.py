@@ -13,4 +13,4 @@ bool_three = not (3 > 2) or (1 == 2)
 bool_four = "Python" == "Python" and not (10 < 5)
 
 # Make me true!
-bool_five = 
+bool_five = not False or (2 + 2 ==4)
