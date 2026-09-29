@@ -1,4 +1,4 @@
-response = None
+response = 
 
 answer = "Left"
 if answer == "Left":
