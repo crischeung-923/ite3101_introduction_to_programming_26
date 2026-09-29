@@ -6,7 +6,7 @@ suitcase.append("Jacket")
 suitcase.append("T-Shirt")
 suitcase.append("bathing suit")
 
-list_length =  len
+list_length =  len( suitcase )
 
 print("There are %d items in the suitcase." % list_length)
 print(suitcase)
