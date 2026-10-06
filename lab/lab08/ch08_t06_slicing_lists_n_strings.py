@@ -1,7 +1,7 @@
 animals = "catdogfrog"
 
 # The first three characters of animals
-cat = my_list[]
+cat = my_list[0:]
 
 # The fourth through sixth characters
 dog = None
