@@ -3,7 +3,7 @@ square_list = []
 
 # Your code here!
 for number in start_list:
-    print(number **2)
+    square_list= print(number ** 2)
     
 
 print(square_list)
