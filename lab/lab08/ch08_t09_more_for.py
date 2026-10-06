@@ -5,5 +5,6 @@ square_list = []
 for number in start_list:
     square_list= print(number ** 2)
     
+    
 
 print(square_list)
