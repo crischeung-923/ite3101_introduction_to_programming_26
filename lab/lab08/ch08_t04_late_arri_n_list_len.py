@@ -9,3 +9,4 @@ suitcase.append("Jacket")
 list_length = len(suitcase)
 
 print(list_length)
+print(suitcase)
