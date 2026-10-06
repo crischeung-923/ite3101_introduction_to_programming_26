@@ -1,7 +1,7 @@
 animals = "catdogfrog"
 
 # The first three characters of animals
-cat = m
+cat = my_lis
 
 # The fourth through sixth characters
 dog = None
