@@ -8,5 +8,5 @@ suitcase.append("jacket")
 
 list_length = len(suitcase)
 
-print("There are {} items in the suitcase." format list_length)
+print("There are {} items in the suitcase." format(list_length)
 print(suitcase)
