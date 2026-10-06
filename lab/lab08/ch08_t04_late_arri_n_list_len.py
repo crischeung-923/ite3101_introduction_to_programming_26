@@ -8,5 +8,4 @@ suitcase.append("Jacket")
 
 list_length = len(suitcase)
 
-print(len(suitcase))
-
+print(list_length)
