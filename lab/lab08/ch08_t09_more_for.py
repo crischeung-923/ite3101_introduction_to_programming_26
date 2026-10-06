@@ -7,3 +7,4 @@ for number in start_list:
     
 
 print(square_list)
+for number in 
