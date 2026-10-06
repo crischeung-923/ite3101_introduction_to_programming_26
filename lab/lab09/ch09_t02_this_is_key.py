@@ -6,4 +6,5 @@ webster = {
 }
 
 # Add your code below!
-for key i we
+for key in webster:
+    print
