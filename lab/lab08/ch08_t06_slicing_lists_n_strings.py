@@ -7,4 +7,4 @@ cat = my_list[0:3]
 dog = my_list[3:6]
 
 # From the seventh character to the end
-frog = an[6:10]
+frog = animals[6:10]
