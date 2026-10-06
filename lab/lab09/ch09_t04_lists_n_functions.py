@@ -1,3 +1,4 @@
 # Write your function below!
 def fizz_count(x:list[str]):
-    fizz_count
+    count = 0
+    for in :
