@@ -1,3 +1,3 @@
 # Write your function below!
 def fizz_count(x:list[str]):
-    coun
+    fizz_count
