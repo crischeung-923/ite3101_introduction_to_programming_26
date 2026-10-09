@@ -11,7 +11,7 @@ del zoo_animals['Unicorn']
 
 # Your code here!
 del zoo_animals['Bengal Tiger']
-del zoo_animals['']
-zoo_animals['Rockhopper Penguin']
+del zoo_animals['Sloth']
+zoo_animals['Rockhopper Penguin'] = Ne
 
 print(zoo_animals)
