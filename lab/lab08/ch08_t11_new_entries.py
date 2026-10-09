@@ -4,7 +4,7 @@ print(menu['Chicken Alfredo'])
 
 # Your code here: Add some dish-price pairs to menu!
 menu['Beef Burger']=20.5
-menu['']
+menu['Beef Pizza']=
 
 print("There are " + str(len(menu)) + " items on the menu.")
 print(menu)
