@@ -11,14 +11,10 @@ stock = {
     "pear": 15,
 }
 
-for key in prices:
-    print(key)
-    print("price: %s" % prices[key])
-    print("stock: %s" % stock[key])
-
 total = 0
 for key in prices:
     value = prices[key] * stock[key]
-    print("%s" value)
+    print(value)
     total += value
+
 print(total)
