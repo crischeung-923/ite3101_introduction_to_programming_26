@@ -18,4 +18,4 @@ for key in prices:
 
 total = 0
 for key in prices:
-    item_
+    item_value =prices
