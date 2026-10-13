@@ -19,6 +19,5 @@ for key in prices:
 
     item_value =prices[key] * stock[key]
     print(item_value)
-    total =total + item_value
 
 print(total)
