@@ -11,10 +11,4 @@ stock = {
     "pear": 15,
 }
 
-total = 0
-for key in prices:
-    value = prices[key] * stock[key]
-    print(value)
-    total += value
 
-print(total)
