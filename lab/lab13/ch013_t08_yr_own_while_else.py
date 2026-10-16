@@ -8,4 +8,4 @@ guesses_left = 3
 while guesses_left > 0:
     guess = int(input('your guess:'))
     if guess == 5:
-        print('you win')
+        print('You win!')
