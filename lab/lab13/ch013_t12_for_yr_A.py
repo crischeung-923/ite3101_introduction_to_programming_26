@@ -11,7 +11,7 @@ phrase = "A bird in the hand..."
 for char in phrase:
     if char == "A" or char == "a":       # <-- 缩进 1 次 (4个空格)
         print('X', end=', ')             # <-- 缩进 2 次 (8个空格)
-    else:                                # <-- 缩进 1 次，与 if 对齐
+    else:                                
         print(char, end=" ")             
 
 # Don't delete this print statement!
