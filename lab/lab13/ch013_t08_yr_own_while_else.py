@@ -9,3 +9,4 @@ while guesses_left > 0:
     guess = int(input('your guess:'))
     if guess == 5:
         print('You win!')
+        break
