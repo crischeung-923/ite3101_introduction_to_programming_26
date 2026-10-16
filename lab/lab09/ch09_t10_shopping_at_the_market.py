@@ -1,1 +1,1 @@
-gr
+groceries = ['banana', 'orange', 'apple']
