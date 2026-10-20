@@ -1,4 +1,7 @@
 n = [3, 5, 7]
 
 def total(numbers):
-    resu
+    result = 0
+    for num in numbers:
+        result = result + num
+    
