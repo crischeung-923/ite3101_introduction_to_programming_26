@@ -1,4 +1,3 @@
-
 phrase = "A bird in the hand..."
 
 # Add your for loop
