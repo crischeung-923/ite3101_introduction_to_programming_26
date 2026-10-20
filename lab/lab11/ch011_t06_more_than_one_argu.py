@@ -8,4 +8,3 @@ def add_function(x, y):
 
 
 # print(add_function(m, n))
-print(add_function(m, n))
