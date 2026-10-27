@@ -18,5 +18,9 @@ tyler = {
 }
 
 # Add your function below!
+
+
 def average(numbers):
-    t
+    total = sum(numbers)
+    total = float(total)
+    return total / len(numbers)
