@@ -23,3 +23,6 @@ def random_col(board_in: List[List[str]]) -> int:
 random_row(board)
 random_col(board)
 # Add your code below!
+
+guess_row = int(input("Guess Row: "))
+guess_col = int(input("Guess Col: "))
