@@ -2,7 +2,7 @@
 # can leave the code on line 10 alone for now--we'll
 # explain it soon!
 def spam():
-    """Print the string Eggs! to the cons"""
+    """Print the string Eggs! to the console."""
 
 # Define the spam function above this line.
 spam()
