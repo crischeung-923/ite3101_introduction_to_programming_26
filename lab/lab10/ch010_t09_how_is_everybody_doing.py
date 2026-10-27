@@ -54,7 +54,7 @@ def get_letter_grade(score: float) -> str:
         return "F"
 
 
-print(get_letter_grade(get_average(lloyd)))
+# print(get_letter_grade(get_average(lloyd)))
 
 
 # Add your function below!
@@ -63,6 +63,7 @@ def get_class_average(class_list: List[dict]) -> float:
     for student in class_list:
         results.append(get_average(student))
     return average(results)
+
 
 # Add code below!
 students = [lloyd, alice, tyler]
