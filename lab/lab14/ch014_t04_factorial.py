@@ -1,1 +1,2 @@
-def fact
+def factorial(x):
+    
