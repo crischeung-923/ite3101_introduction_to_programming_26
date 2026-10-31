@@ -7,5 +7,5 @@ score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
     for letter in word.lower():
         total += score[letter]
     return total
-說明：先將單字轉小寫，再逐字查表加總分數。
+
 
