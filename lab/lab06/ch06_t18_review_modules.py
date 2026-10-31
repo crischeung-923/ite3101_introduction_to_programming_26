@@ -1,2 +1,2 @@
 import math
-print(math.sprt)
+print(math.sprt(13689))
