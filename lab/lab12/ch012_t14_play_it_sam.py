@@ -30,7 +30,6 @@ print(ship_col)
 for turn in range(4):
     print("Turn", turn + 1)
     
-    # 以下為你的遊戲主體程式碼（需縮排），例如玩家輸入與檢查結果：
     # guess_row = int(input("Guess Row: "))
     # guess_col = int(input("Guess Col: "))
     # 
