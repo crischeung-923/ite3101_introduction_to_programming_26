@@ -4,4 +4,4 @@ def digit_sum(n):
         total += int(digit)
     return total
 
-def digit_sum(n:int)
+def digit_sum(n:int)->int
