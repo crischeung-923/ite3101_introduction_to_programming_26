@@ -1,1 +1,1 @@
-def is_even(x:int) -
+def is_even(x:int) ->
