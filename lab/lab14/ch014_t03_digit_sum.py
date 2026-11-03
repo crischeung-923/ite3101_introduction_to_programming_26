@@ -3,3 +3,5 @@ def digit_sum(n):
     for digit in str(n):
         total += int(digit)
     return total
+
+def digit_sum
