@@ -1,4 +1,4 @@
-def censor(text, word):
+def censor(text:str, word:str)->str:
     words = text.split()
     result = []
     for w in words:
