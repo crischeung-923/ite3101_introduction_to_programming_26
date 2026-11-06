@@ -1,4 +1,4 @@
-def median(numbers):
+def median(numbers:list)->float:
     s = sorted(numbers)
     n = len(s)
     if n % 2 == 1:
